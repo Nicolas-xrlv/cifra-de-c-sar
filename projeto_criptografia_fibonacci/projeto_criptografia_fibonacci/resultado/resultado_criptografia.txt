@@ -1,0 +1,5 @@
+Palavra original: coracao
+Palavra codificada: gswgkle
+SHIFT: 3
+Tipo: Fibonacci
+Letras: 7
